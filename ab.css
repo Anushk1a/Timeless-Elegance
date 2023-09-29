@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding:0px;
+    display: block;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    
+}
